@@ -8,13 +8,6 @@
 </br> Main features of RabbitMQ includes Reliability, Highly Available Queues, Many Clients, Clustering. <br/> 
 </br> If you want to distribute messages to different clients based on different rules, RabbitMQ would be the best choice. <br/> 
 
-## About the App:
-
-
-</br> ---- <br/> 
-</br> ---- <br/> 
-</br> ---- <br/> 
-
 ## run
 </br> To run the code you need to install this software "RabbitMQ" link download - https://www.rabbitmq.com/download.html <br/> 
 </br>You need to get in to - RabbitMQ Command Prompt (sbin dir) , Run this commands : <br/> 
