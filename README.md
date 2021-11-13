@@ -13,4 +13,4 @@
 </br>You need to get in to - RabbitMQ Command Prompt (sbin dir) , Run this commands : <br/> 
 </br>rabbitmq-plugins enable rabbitmq_management <br/> 
 </br>rabbitmqctl start_app <br/> 
-</br> Download the project and run first the main class in Mainproducer And then MainConsumer <br/> 
+</br> Download the project (ProducerConsumerRabbitMQ.rar) and run first the main class in Mainproducer And then MainConsumer <br/> 
